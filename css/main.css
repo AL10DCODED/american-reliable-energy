@@ -781,11 +781,11 @@ hr {
   color: #666;
 }
 #contact .form-group {
-    /* background-color: #f4f4f4;
+    background-color: #f4f4f4;
     margin: 0 auto;
     padding: 80px 100px 55px;
     width: 650px;
-    box-shadow: 0 4px 40px  rgba(0, 0, 0, 0.2); */
+    box-shadow: 0 4px 40px  rgba(0, 0, 0, 0.2); 
 }
 .input-field .form-control {
     height: 38px;
